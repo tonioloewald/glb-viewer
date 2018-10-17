@@ -1,7 +1,7 @@
 # glb-viewer
 
-[scoutship example](../scoutship.glb)
-[weasel example](../weasel.glb)
+- [scoutship example](../scoutship.glb)
+- [weasel example](../weasel.glb)
 
 My goal is to create a simple script that could be embedded in any page and which
 would then render any linked _glb_ files automagically.
