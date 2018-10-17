@@ -36,7 +36,6 @@
     const canvas = document.createElement('canvas');
     canvas.width = 256;
     canvas.height = 256;
-    canvas.style.backgroundColor = '#ddd';
     canvas.style.display = 'block';
     a.parentElement.insertBefore(canvas, a);
 
